@@ -93,7 +93,7 @@ Created to help solar installers and project managers estimate installation time
 ## 📞 Support
 
 Having issues? 
-- Open an [issue]([(https://github.com/AIRAM-023/solarsite-predictor)/issues)] on GitHub
+- Open an [issue] [(https://github.com/AIRAM-023/solarsite-predictor)/issues)] on GitHub
 - Check the documentation above
 - Make sure all requirements are installed
 
